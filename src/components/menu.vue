@@ -20,3 +20,8 @@
     props:['menu']
   }
 </script>
+<style>
+  .card{
+    min-height: 170px;
+  }
+</style>
