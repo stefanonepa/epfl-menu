@@ -5,6 +5,7 @@
         <!--Card content-->
         <div class="card-block">
             <!--Title-->
+            <h3 class="card-title">{{ menu.restaurant }}</h3>
             <h4 class="card-title">{{ menu.title }}</h4>
             <!--Text-->
             <p class="card-text">{{ menu.description }}</p>
